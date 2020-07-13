@@ -1,6 +1,6 @@
 # :man_technologist: Gabbi López
 
-### Oláá! 👋
+### Oláá! :v:
 
 Sou Gabbi nascida na cidade maravilhosa, Rio de Janeiro. Trabalho com desenvolvimento back-end há 3 anos e sigo no caminho infinito do conhecimento contínuo.   
 No tempo livre, adoro ver filmes, séries, ler livros, ouvir, tocar músicas, jogar xadrez e beber uma cervejinha gelada!🍺
