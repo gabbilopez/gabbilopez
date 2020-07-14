@@ -4,7 +4,7 @@ Sou Gabbi, nascida na cidade maravilhosa. Trabalho com desenvolvimento back-end 
 No tempo livre, adoro ver filmes, séries, ler livros, ouvir, tocar músicas, jogar xadrez e beber uma cervejinha gelada!🍺
 
 - :briefcase: Desenvolvedora na **IBM**
-- :blue_heart: Java, Javascript, Phyton, XML API..
+- :blue_heart: Java, Javascript, Python, XML API..
 - :books: HTML, CSS, Javascript
 
 Quer bater um papo? Me encontre aqui:
