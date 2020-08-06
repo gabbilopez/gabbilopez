@@ -10,6 +10,6 @@ I loooooove to watch films, series, to listen and play songs, to read books, to 
 
 Let's talk!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielalopezbravo/)](https://www.linkedin.com/in/gabrielalopezbravo/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielalopezbravo/)](https://www.linkedin.com/in/gabbilopez/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GabbiLopez_)](https://twitter.com/GabbiLopez_)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/GabbiLopez)](https://t.me/GabbiLopez)
