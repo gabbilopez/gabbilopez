@@ -4,7 +4,6 @@ I'm Gabbi, from the wonder city, Rio.
 I've been working as Back-End Developer since 2018 and still learning.   
 I loooooove to watch films, series, to listen and play songs, to read books, to play chess and drink a very ice beer!🍺
 
-- :briefcase: Developer at [IBM](https://www.ibm.com/br-pt) 
 - :blue_heart: Java
 - :books: HTML, CSS, Java, Python
 
