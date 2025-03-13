@@ -1,10 +1,12 @@
 <div>
-    <h1>Oi, sou Gabbi ✨</h1>
+    <h1>Oi, sou Gabbi</h1>
     <h3>Que bom ver você por aqui!</h3>
     <p> 
-        - Desenvolvedora Back-End, com foco em Java, Spring Boot e Oracle SQL, explorando microsserviços. <br>
-        - Amo café, música e natação no mar<br>
-        - Adoro contribuir para projetos que impactam milhares de usuários🎯
+        - 👩🏾‍💻 Desenvolvedora Back-End | Java, Spring Boot & Oracle SQL<br>
+        - 🧩 Explorando microsserviços e boas práticas de código<br>  
+        - 🤝 Apaixonada por colaboração e soluções que impactam pessoas<br>  
+        - 📚 Em constante evolução, sempre aprendendo algo novo<br>  
+        - ☕ Amo café, música e natação no mar<br>    
     </p>
 </div>
 
