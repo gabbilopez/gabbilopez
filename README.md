@@ -38,6 +38,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align ="center" src="https://github-readme-stats.vercel.app/api?username=gabbilopez&include_all_commits=true&show_icons=true&theme=dracula&hide_border=true" alt="Gabbi's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbilopez&theme=dracula&hide_border=tru" /></a>
 
+
 [twitter]: https://x.com/GabbiLopez_
 [linkedin]: https://www.linkedin.com/in/gabbilopez/
 [instagram]: https://www.instagram.com/gabbi.dev/
