@@ -6,7 +6,7 @@
         - Exploring microservices and good coding practices<br>
         - Passionate about collaboration and solutions that impact people<br>
         - Constantly evolving, always learning something new<br>
-        - I love coffee, music and swimming in the sear<br>    
+        - I love coffee, music and swimming in the sea<br>    
     </p>
 </div>
 
