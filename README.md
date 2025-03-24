@@ -13,7 +13,6 @@
  <h4>Let's talk</h4>
 
 [<img align="left" alt="GabbiLopez__| X" width="22px" src="https://cdn.simpleicons.org/x" />][twitter]
-[<img align="left" alt="gabbilopez | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
 [<img align="left" alt="gabbi.dev | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" />][instagram]
 
 
