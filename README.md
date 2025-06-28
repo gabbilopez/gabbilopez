@@ -2,7 +2,7 @@
     <h1>Hi, I'm Gabbi 👩🏾‍💻</h1>
     <h3>Good to see you here!</h3>
     <p> 
-        - Back-End Developer | Java, Spring Boot & Oracle SQL<br>
+        - Back-End Developer
         - Exploring microservices and good coding practices<br>
         - Passionate about collaboration and solutions that impact people<br>
         - Constantly evolving, always learning something new<br>
